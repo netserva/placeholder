@@ -3,12 +3,12 @@
     "description": "NetServa namespace placeholder - Infrastructure management packages coming soon",
     "type": "library",
     "license": "MIT",
-    "keywords": ["netserva", "infrastructure", "placeholder"],
+    "keywords": ["netserva", "platform", "infrastructure", "placeholder"],
     "homepage": "https://github.com/netserva/placeholder",
     "authors": [
         {
             "name": "Mark Constable",
-            "email": "mc@netserva.org",
+            "email": "markc@netserva.org",
             "homepage": "https://netserva.org"
         }
     ],
