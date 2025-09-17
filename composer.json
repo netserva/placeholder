@@ -1,0 +1,29 @@
+{
+    "name": "netserva/placeholder",
+    "description": "NetServa namespace placeholder - Infrastructure management packages coming soon",
+    "type": "library",
+    "license": "MIT",
+    "keywords": ["netserva", "infrastructure", "placeholder"],
+    "homepage": "https://github.com/netserva/placeholder",
+    "authors": [
+        {
+            "name": "Mark Constable",
+            "email": "mc@netserva.org",
+            "homepage": "https://netserva.org"
+        }
+    ],
+    "require": {
+        "php": "^8.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Netserva\\Placeholder\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "support": {
+        "issues": "https://github.com/netserva/placeholder/issues",
+        "source": "https://github.com/netserva/placeholder"
+    }
+}
